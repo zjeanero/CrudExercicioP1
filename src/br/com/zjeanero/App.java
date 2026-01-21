@@ -133,11 +133,4 @@ public class App {
         }
         return false;
     }
-
-    private static boolean isOpcaoCasdastro(String opcao) {
-        if ("1".equals(opcao)) {
-            return true;
-        }
-        return false;
-    }
 };
